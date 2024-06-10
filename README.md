@@ -1,6 +1,6 @@
 ##ScreenSound (Aplicativo Java)
 
-Antes deste projeto, desenvolvi o ScreenSound, um aplicativo Java simples projetado para permitir aos usuários consultar informações sobre artistas e suas músicas. O ScreenSound facilitava a busca e a descoberta de músicas, proporcionando uma experiência de consulta direta e eficiente.
+Neste projeto, desenvolvi o ScreenSound, um aplicativo Java simples projetado para permitir aos usuários consultar informações sobre artistas e suas músicas. O ScreenSound facilitava a busca e a descoberta de músicas, proporcionando uma experiência de consulta direta e eficiente.
 
 ### Funcionalidades Principais do ScreenSound:
 
